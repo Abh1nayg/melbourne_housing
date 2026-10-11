@@ -65,7 +65,6 @@ The project demonstrates **data cleaning, exploratory data analysis (EDA), featu
 | Decision Tree (depth=10) | 260.4    | 380.2     | 0.61 |
 | Random Forest (tuned) | 215.7    | 320.5     | 0.74 |
 
-*(values vary run to run)*
 
 ---
 
@@ -83,4 +82,4 @@ The project demonstrates **data cleaning, exploratory data analysis (EDA), featu
 git clone <this-repo>
 cd melbourne-housing
 pip install -r requirements.txt
-jupyter notebook notebook.ipynb
+jupyter notebook main.ipynb
